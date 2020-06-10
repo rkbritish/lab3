@@ -1,1 +1,8 @@
 Internet technology
+
+Communication model
+
+OSI-ISO model
+
+it is bassically a theoritical model.
+
